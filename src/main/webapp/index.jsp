@@ -4,11 +4,11 @@
 <html>
 <head>
 <style>
-
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
 <body>
+	<img src="images/icon/Planner-96.png">
 </body>
 </html>
